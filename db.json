@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Macbook Air",
+        "price": 120000,
+        "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+    
+      },
+      {
+        "id": 2,
+        "name": "Sony Tv",
+        "price": 450000,
+        "description": " To create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+      },
+      {
+        "id": 3,
+        "name": "Bose Headphones",
+        "price": 29000,
+        "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+        
+      },
+      {
+        "id": 4,
+        "name": "Casio g-shock",
+        "price": 18999,
+        "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+
+      },
+      {
+        "id": 5,
+        "name": "Refrigerator",
+        "price": 42800,
+        "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+        
+      },
+      {
+        "id": 6,
+        "name": "Nike Running Shoes",
+        "price": 13000,
+        "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+      }
+     
+    ]
+  }
