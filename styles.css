@@ -1,0 +1,19 @@
+.container{
+    height:60px;
+    background-color:beige;
+}
+
+.wrapper{
+    padding: 10px 20px;
+}
+
+.Center{
+    text-align:center;
+    font-size:30px;
+
+}
+
+.right{
+    text-align:right;
+    padding-right :90%;
+}
